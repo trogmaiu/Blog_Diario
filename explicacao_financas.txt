@@ -1,0 +1,80 @@
+Uma explicacao sobre financas, como funciona os investimentos,
+como o banco opera.
+Qual a funçao principal do banco emprestar dinheiro.
+Quais as formas dos bancos de capitar dinheiro, atraves
+de investimentos aos clientes.
+Existem diversos tipos de investimentos, alguns relacionados
+ao bancos outros relacionados ao governo.Este exemplar
+não tem o objetivo de descrever os tipos de investimentos, mas
+dar uma visão ampla de como funciona quase todos no BR.
++VISAO
+Os investimentos tem suas caracteristicas, sendo:
+++Capital
+++Tempo
+++taxa de juros
+++formato
+
++CApital
+A forma de colocar o dinheiro pode alterar o seu rendimento final.
+Exemplo 30k, pode ser colocado ao longo do tempo do investimento, ou
+desde o inicio. vai alterar o rendimento.
++Tempo
+O tempo, é um fator, estranho, é claro que quanto maior vai ser o rendimento.
++juros
+Este é o principal fator no rendimento.
+++Pre-fixao ou Pos-fixado.
+
+
+++Estudo Caso
+
+Ja foi de certa forma falado neste exemplar:
+O que podemos alterar, a taxa de juros depende do mercado, podemos,
+escolher o tempo, alterar a forma de colocar os valores.
+Tendo em mente um rendimento de 30K, caso seja possivel
+colocar desde o inicio vai ter um rendimento melhor.
+No site de uma corretora online, ja chegou um tempo atrás
+um rendimento de 37k, caso fosse colocado ao longo do tempo,
+com um valor x no inicio rendia 34K.
+
+++O mercado
+
++Corretora ou Banco
+Pense em um serviço de emprestimo de 30k para
+fazer em algum investimento, esse valor seria parcelado o
+valor sem juros, para colocar desde o inicio os 30k.
+A corretora ou banco tem 10.000.000, daria o valor de 333 
+arredondado de clientes em 30k.
++Matemática
+O rendimento rende de 30k, 37,5K em 60 meses, ou seja 5% ao ano.
+Colocando de outras forma vai render 34k ou 35k. Dentro do rendimento
+de 37,5k, vamos dizer que o sistema cobre 1,5K,ou 5% de 30k, você terá um lucro de 
+36k ou mais 1k em relaçao as outras formas dentro de 30k.
+Para o sistema compensa?
++Vamos a conta.
+Caso o sistema nao use para o emprestimo sem juros de 30k.
+10M X 0,05= 500k X 5 anos 2,5M
+Caso empreste
+Dentro do que foi falado, pega 1k, são 333 clientes, ou seja:
+333x 1,5k = 499.500
+Está errado, vai ser menos: 30k foi arredondado, foi proposital.
+Um exemplo menor:
+100 X 0,05 = 5
+Caso seja dividido por 5 clientes, cada cliente tera 20.
+20 x 0,05 = 1
+1 X 5 clientes = 5
+
+++Fechamento da explicacao
+Caso o cliente opte por essa forma, a pessoa pegara o lucro, não o montante,
+você pegou 30k para investir, tem que pagar os 30k, vai pegar o lucro
+dentro de 5% dentro de 60 meses, 37,5k, ou seja 7,5K de lucro, menos a taxa
+de corretagem ou acordo de 1,5k. De outra forma o rendimento será 34k, ou 35k.
+
+
+1k dentro de 30k, e 3,33% de juros
+
+O banco para emprestimo utiliza taxa de juros anuais de mais de 10%.
+Uma empresa do setor que ofereca esse serviço teria que cobrar um 
+valor a mais, para ter um lucro que justifique para ela não investir 
+inves de fazer o processo de emprestar para investir.
+
+Vai ter um complemento da explicacao sobre o sistema de investimento.
